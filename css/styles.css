@@ -1,5 +1,4 @@
-h1{
-	color: blue;
-	font-size: 24px;
-	vertical-align: middle;
+.navbar{
+	background-color: grey;
+	float:left;
 }
