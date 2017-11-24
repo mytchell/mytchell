@@ -358,8 +358,7 @@ ul li {
   visibility: hidden; }
   .work img
   {
-	  width: 50%;
-	  height: 50%; 
+	  width: 100%;
   }
   .work .overlay {
     background: #4030eb ;
